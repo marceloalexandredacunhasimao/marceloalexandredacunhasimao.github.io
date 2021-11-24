@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(153, 255, 204)/* aquamarine;*/
+    background-color: rgb(153, 255, 204);/* aquamarine;*/
+    padding: 2%;
 }
 h1{
     font-family: sans-serif;
@@ -18,4 +19,36 @@ h1{
 }
 .terceirahabilidade{
     font-size: 110%;
+}
+/*
+div{
+    border: solid green 3px
+}
+*/
+#minhafoto{
+    float: left;
+    height: 729px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.fotodescricao{
+    height: 749px;
+}
+
+#meunome{
+    text-align: center;
+}
+
+#sobremim{
+    position: relative;
+    top: 30%;
+    left: 3%;
+}
+
+ul li:nth-child(odd){
+    background-color: green;
+}
+ul li:nth-child(even){
+    background-color: lightgreen;
 }
