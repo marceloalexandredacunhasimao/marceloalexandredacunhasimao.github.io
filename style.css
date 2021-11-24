@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(153, 255, 204)/* aquamarine;*/
+}
+h1{
+    font-family: sans-serif;
+}
+#sobremim{
+    font-family: 'Courier New', Courier, monospace;
+}
+.informacoes{
+    font-style: italic;
+}
+.primeirahabilidade{
+    font-size: 140%;
+}
+.segundahabilidade{
+    font-size: 120%;
+}
+.terceirahabilidade{
+    font-size: 110%;
+}
